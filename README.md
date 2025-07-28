@@ -12,7 +12,7 @@ A simple React-based UI with 4 working tabs. Each tab displays different content
 
 ## 📸 Preview
 
-![Preview]⚠️ Not yet released – still in development.
+![Preview] : https://reacttabdeck.netlify.app/
 
 ## 🚀 Getting Started
 
